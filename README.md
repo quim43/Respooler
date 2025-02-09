@@ -1,5 +1,8 @@
-#Respoo![IMG_1152](https://github.com/user-attachments/assets/fe03c6b4-c388-49da-bc7b-b94e83e49636)
-lerm
+#Respooler
+
+![IMG_1152](https://github.com/user-attachments/assets/925a38ba-67c6-4eaa-b86f-d28578d027af)
+
+
 🚀 **Respooler** es una máquina compacta para rebobinar filamento de impresora 3D de manera eficiente. Está basada en el diseño **V-Spooler**, pero con mejoras como un **motor paso a paso** y un **sensor de filamento** para facilitar su uso.
 
 ## 📌 Características
