@@ -1,6 +1,5 @@
-# LTS Respooler - Motorized Filament Winder
-
-🚀 **LTS Respooler** es una máquina compacta para rebobinar filamento de impresora 3D de manera eficiente. Está basada en el diseño **V-Spooler**, pero con mejoras como un **motor paso a paso** y un **sensor de filamento** para facilitar su uso.
+#Respoolerm
+🚀 **Respooler** es una máquina compacta para rebobinar filamento de impresora 3D de manera eficiente. Está basada en el diseño **V-Spooler**, pero con mejoras como un **motor paso a paso** y un **sensor de filamento** para facilitar su uso.
 
 ## 📌 Características
 
